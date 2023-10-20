@@ -4,6 +4,10 @@ Embedded Rust thermostat on raspberry pi 4B+
 
 therm_os 
 
+raspberry pi cross compilation
+https://github.com/japaric/rust-cross
+https://github.com/cross-rs/cross
+
 rust homekti api
 https://crates.io/crates/hap
 
