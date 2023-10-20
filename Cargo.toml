@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 hap = "0.0.10"
+rppal = "0.15.0"
